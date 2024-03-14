@@ -1,5 +1,12 @@
 # pemrogramanAPI_1
-testo estro
+Kelompok 8
+
+Nama Anggota : 
+1. Verani Fajrin (22091397018)
+2. Ihda Anisa Ulfa (22091397019)
+3. Roy Nurfaza (22091397035)
+
+https://github.com/roynurff/pemrogramanAPI_1
 
 ![Screenshot (355)](https://github.com/roynurff/pemrogramanAPI_1/assets/122617631/7c17ef08-16a5-4667-9c36-e09292606e7d)
 ![Screenshot (356)](https://github.com/roynurff/pemrogramanAPI_1/assets/122617631/477d02e1-246f-40e5-8e75-7cb8024b626d)
